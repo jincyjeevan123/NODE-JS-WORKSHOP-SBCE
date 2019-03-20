@@ -1,0 +1,25 @@
+{
+  "name": "nodepgms",
+  "version": "1.0.0",
+  "main": "Add.js",
+  "dependencies": {
+    "express": "^4.16.4",
+    "hbs": "^4.0.0",
+    "lodash": "^4.17.11"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jincyjeevan123/NODE-JS-WORKSHOP-SBCE.git"
+  },
+  "author": "jincy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jincyjeevan123/NODE-JS-WORKSHOP-SBCE/issues"
+  },
+  "homepage": "https://github.com/jincyjeevan123/NODE-JS-WORKSHOP-SBCE#readme",
+  "description": ""
+}
